@@ -1,7 +1,7 @@
 # Basic
 title: ASDF的博客
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 生活是苦难的，我又划着我的断桨出发了......
 # 头像里面的标题
 avatarTitle: ASDF
 # 头像里面的描述
@@ -13,19 +13,19 @@ enableToc: true
 
 # Comment
 comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    # livere:   # https://www.livere.com
+    disqus: 
+    # uyan:   # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    weibo: 
+    github: 
+    # zhihu: 
+    # juejin: 
+    jianshu: 
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: admin@asdfinstall.top
 
 
 # 百度统计 
