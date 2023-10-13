@@ -28,6 +28,3 @@ title: 网站说明
 查看 [技术支持](http://leopardpan.cn/support/) 需求帮助
 
 博客模板会一直持续更新，请持续关注我，谢谢~
-
-{% include comments.html %}
-
