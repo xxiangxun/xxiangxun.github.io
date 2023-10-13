@@ -23,4 +23,4 @@ title: 网站说明
 
 如果您对本博客网站的内容有任何疑问、建议或投诉，请通过以下方式与我联系：
 
-- 邮箱：[admin@asdfinstall.top](mailto:admin@asdfinstall.top)
+- 邮箱：admin#asdfinstall.top（把#换成@）
