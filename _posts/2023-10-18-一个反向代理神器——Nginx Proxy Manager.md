@@ -1,3 +1,13 @@
+---
+
+layout: post
+title: "一个反向代理神器——Nginx Proxy Manager"
+date: 2023-10-18 
+description: 
+tag: 实用工具
+
+---
+
 #### 安装 Nginx Proxy Manager
 创建安装目录
 ```
