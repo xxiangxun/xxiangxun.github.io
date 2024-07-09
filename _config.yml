@@ -1,9 +1,9 @@
 # Basic
-title: 梵高先生的博客
+title: xxxu
 subtitle: 个人站
 description: 生活是苦难的，我又划着我的断桨出发了......
 # 头像里面的标题
-avatarTitle: 梵高先生
+avatarTitle: xxxu
 # 头像里面的描述
 avatarDesc: 欢迎访问
 url: "https://xxxu.top"
@@ -68,7 +68,7 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 网站说明, description: explanation, url: '/exp'}   
     - {title: 标签, description: tags, url: '/tags'}             
-    - {title: 关于我, description: about, url: '/about'}   
+    #- {title: 关于我, description: about, url: '/about'}   
     
 
 # Pagination
